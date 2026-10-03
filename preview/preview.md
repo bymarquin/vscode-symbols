@@ -96,6 +96,7 @@ You can choose which icons to use from the [Library](https://www.figma.com/file/
 | folder-build          | ![folder-build](folders/folder-build.png)                   |
 | folder-changeset      | ![folder-changeset](folders/folder-changeset.png)           |
 | folder-claude         | ![folder-claude](folders/folder-claude.png)                 |
+| folder-cli            | ![folder-cli](folders/folder-cli.png)                       |
 | folder-components     | ![folder-components](folders/folder-components.png)         |
 | folder-config         | ![folder-config](folders/folder-config.png)                 |
 | folder-constants      | ![folder-constants](folders/folder-constants.png)           |
@@ -125,6 +126,7 @@ You can choose which icons to use from the [Library](https://www.figma.com/file/
 | folder-green-outline  | ![folder-green-outline](folders/folder-green-outline.png)   |
 | folder-helpers        | ![folder-helpers](folders/folder-helpers.png)               |
 | folder-hooks          | ![folder-hooks](folders/folder-hooks.png)                   |
+| folder-http           | ![folder-http](folders/folder-http.png)                     |
 | folder-i18n           | ![folder-i18n](folders/folder-i18n.png)                     |
 | folder-images         | ![folder-images](folders/folder-images.png)                 |
 | folder-interceptors   | ![folder-interceptors](folders/folder-interceptors.png)     |
@@ -136,6 +138,7 @@ You can choose which icons to use from the [Library](https://www.figma.com/file/
 | folder-lock           | ![folder-lock](folders/folder-lock.png)                     |
 | folder-mail           | ![folder-mail](folders/folder-mail.png)                     |
 | folder-maven          | ![folder-maven](folders/folder-maven.png)                   |
+| folder-mcp            | ![folder-mcp](folders/folder-mcp.png)                       |
 | folder-middleware     | ![folder-middleware](folders/folder-middleware.png)         |
 | folder-models         | ![folder-models](folders/folder-models.png)                 |
 | folder-modules        | ![folder-modules](folders/folder-modules.png)               |
@@ -152,6 +155,7 @@ You can choose which icons to use from the [Library](https://www.figma.com/file/
 | folder-pink-code      | ![folder-pink-code](folders/folder-pink-code.png)           |
 | folder-pink-outline   | ![folder-pink-outline](folders/folder-pink-outline.png)     |
 | folder-pipes          | ![folder-pipes](folders/folder-pipes.png)                   |
+| folder-plugins        | ![folder-plugins](folders/folder-plugins.png)               |
 | folder-prisma         | ![folder-prisma](folders/folder-prisma.png)                 |
 | folder-providers      | ![folder-providers](folders/folder-providers.png)           |
 | folder-purple         | ![folder-purple](folders/folder-purple.png)                 |
@@ -169,18 +173,24 @@ You can choose which icons to use from the [Library](https://www.figma.com/file/
 | folder-redux-selector | ![folder-redux-selector](folders/folder-selector.png)       |
 | folder-router         | ![folder-router](folders/folder-router.png)                 |
 | folder-sass           | ![folder-sass](folders/folder-sass.png)                     |
+| folder-sdk            | ![folder-sdk](folders/folder-sdk.png)                       |
 | folder-services       | ![folder-services](folders/folder-services.png)             |
 | folder-shared         | ![folder-shared](folders/folder-shared.png)                 |
 | folder-sky            | ![folder-sky](folders/folder-sky.png)                       |
 | folder-sky-code       | ![folder-sky-code](folders/folder-sky-code.png)             |
 | folder-sky-outline    | ![folder-sky-outline](folders/folder-sky-outline.png)       |
+| folder-stores         | ![folder-stores](folders/folder-stores.png)                 |
 | folder-supabase       | ![folder-supabase](folders/folder-supabase.png)             |
 | folder-target         | ![folder-target](folders/folder-target.png)                 |
 | folder-tauri          | ![folder-tauri](folders/folder-tauri.png)                   |
 | folder-tina           | ![folder-tina](folders/folder-tina.png)                     |
 | folder-utils          | ![folder-utils](folders/folder-utils.png)                   |
 | folder-vercel         | ![folder-vercel](folders/folder-vercel.png)                 |
+| folder-views          | ![folder-views](folders/folder-views.png)                   |
 | folder-vscode         | ![folder-vscode](folders/folder-vscode.png)                 |
+| folder-webhook-worker | ![folder-webhook-worker](folders/folder-webhook-worker.png) |
+| folder-workflows      | ![folder-workflows](folders/folder-workflows.png)           |
+| folder-worktree       | ![folder-worktree](folders/folder-worktree.png)             |
 | folder-yellow         | ![folder-yellow](folders/folder-yellow.png)                 |
 | folder-yellow-code    | ![folder-yellow-code](folders/folder-yellow-code.png)       |
 | folder-yellow-outline | ![folder-yellow-outline](folders/folder-yellow-outline.png) |

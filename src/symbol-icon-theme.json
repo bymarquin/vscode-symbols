@@ -1,6 +1,16 @@
 {
 	"iconDefinitions": {
 		"folder": { "iconPath": "./icons/folders/folder.svg" },
+		"folder-mcp": { "iconPath": "./icons/folders/folder-mcp.svg" },
+		"folder-sdk": { "iconPath": "./icons/folders/folder-sdk.svg" },
+		"folder-cli": { "iconPath": "./icons/folders/folder-cli.svg" },
+		"folder-webhook-worker": { "iconPath": "./icons/folders/folder-webhook-worker.svg" },
+		"folder-workflows": { "iconPath": "./icons/folders/folder-workflows.svg" },
+		"folder-worktree": { "iconPath": "./icons/folders/folder-worktree.svg" },
+		"folder-stores": { "iconPath": "./icons/folders/folder-stores.svg" },
+		"folder-views": { "iconPath": "./icons/folders/folder-views.svg" },
+		"folder-http": { "iconPath": "./icons/folders/folder-http.svg" },
+		"folder-plugins": { "iconPath": "./icons/folders/folder-plugins.svg" },
 		"folder-assets": { "iconPath": "./icons/folders/folder-assets.svg" },
 		"folder-blue": { "iconPath": "./icons/folders/folder-blue.svg" },
 		"folder-gray": { "iconPath": "./icons/folders/folder-gray.svg" },
@@ -1817,6 +1827,16 @@
 	},
 
 	"folderNames": {
+		"workflows": "folder-workflows",
+		"worktree": "folder-worktree",
+		"stores": "folder-stores",
+		"views": "folder-views",
+		"http": "folder-http",
+		"plugins": "folder-plugins",
+		"mcp": "folder-mcp",
+		"sdk": "folder-sdk",
+		"cli": "folder-cli",
+		"webhook-worker": "folder-webhook-worker",
 		"go": "folder-go",
 		"components": "folder-components",
 		".husky": "folder-orange",
